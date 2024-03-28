@@ -26,10 +26,10 @@ header{
     text-align: center;
 }
 header h1{
-    padding-top: 50px;
+    padding-top: 5%;
     font-variant: small-caps;
     font-family: var(--font2);
-    font-size: 7vw;
+    font-size: 7vh;
 }
 header p{
     padding-bottom: 50px;
